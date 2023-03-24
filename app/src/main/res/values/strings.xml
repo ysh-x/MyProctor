@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyProctor</string>
+    <string name="pwd">Password</string>
+    <string name="usr">Email / ID</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email_faculty_id">Email /  ID</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="proctor_details">Proctor Details</string>
+    <string name="send_msg">Send A Message</string>
+    <string name="send_a_msg">Send A Message</string>
+    <string name="name">Name</string>
+    <string name="person_a">Person A</string>
+    <string name="send_a_message_to_your_proctor_ensure_that_the_message_is_within_100_character">Send a message to your proctor. Ensure that the message is within 100 character</string>
+    <string name="proctor_d">Messages from Proctees</string>
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/msg_proctor"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:autofillHints="Message To Your Proctor"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".Student">
+
+    <TextView
+        android:id="@+id/main_header_proctor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/welcome"
+        android:textSize="28sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/gray"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/proctor_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="sans-serif-black"
+            android:padding="10dp"
+            android:text="@string/proctor_details"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/name_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:padding="10dp"
+            android:text="@string/name"
+            android:textColor="#F44336"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/proctor_name_holder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:padding="10dp"
+            android:text="@string/person_a"
+            android:textColor="@color/black"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/proctor_details2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-black"
+        android:padding="10dp"
+        android:text="@string/send_msg"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="28sp" />
+
+    <EditText
+        android:id="@+id/message_content"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="@string/send_a_message_to_your_proctor_ensure_that_the_message_is_within_100_character"
+        android:inputType="textMultiLine"
+        android:padding="10dp"
+        android:textColorHint="#757575" />
+
+    <Button
+        android:id="@+id/send_message_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/coral"
+        android:fontFamily="sans-serif-black"
+        android:padding="10dp"
+        android:text="@string/send_a_msg"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+</LinearLayout>

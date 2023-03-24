@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "259466066847",
+    "project_id": "myproctor-931e3",
+    "storage_bucket": "myproctor-931e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259466066847:android:eb54b08acc39a502419baa",
+        "android_client_info": {
+          "package_name": "com.ysh.myproctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259466066847-mecnhptrov8kpa40o7dachj7ip7g3ikj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ysh.myproctor",
+            "certificate_hash": "425e93beeae9880307cb5a31d03ccaa547814026"
+          }
+        },
+        {
+          "client_id": "259466066847-0p3d5hpfroqgtuca01o4f9ur8sdd8l4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrbPFGX_dWE4scdXA9t-Pjl0fC-NB3o6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259466066847-0p3d5hpfroqgtuca01o4f9ur8sdd8l4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
