@@ -30,16 +30,16 @@ The application is designed to handle a large number of queries sent by the proc
 
 ### 1. Students log into the digital proctoring system with their student ID and password
 
-<img src="./Media/1.png" alt="drawing" width="30%"/>
+<img src="./Media/1.png" alt="drawing" width="45%"/>
 
 ### 2 . Students can glance their information and their proctor's information and can send messages to their proctors
 
-<img src="./Media/2.png" alt="drawing" width="30%"/>
+<img src="./Media/2.png" alt="drawing" width="45%"/>
 
 ### 3. Proctors can login to the system using the faculty ID and password
 
-<img src="./Media/3.png" alt="drawing" width="30%"/>
+<img src="./Media/3.png" alt="drawing" width="45%"/>
 
 ### 4. The proctor can view the list of queries posed by their student
 
-<img src="./Media/4.png" alt="drawing" width="30%"/>
+<img src="./Media/4.png" alt="drawing" width="45%"/>
