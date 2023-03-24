@@ -32,14 +32,14 @@ The application is designed to handle a large number of queries sent by the proc
 
 <img src="./Media/1.png" alt="drawing" width="30%"/>
 
-### 2 . Students can glance their information and their proctor's information and can send messages to their proctors.
+### 2 . Students can glance their information and their proctor's information and can send messages to their proctors
 
 <img src="./Media/2.png" alt="drawing" width="30%"/>
 
-### 3. Proctors can login to the system using the faculty ID and password.
+### 3. Proctors can login to the system using the faculty ID and password
 
 <img src="./Media/3.png" alt="drawing" width="30%"/>
 
-### 4. The proctor can view the list of queries posed by their student.
+### 4. The proctor can view the list of queries posed by their student
 
 <img src="./Media/4.png" alt="drawing" width="30%"/>
